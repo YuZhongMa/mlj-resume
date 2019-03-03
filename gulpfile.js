@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var plugins = require('gulp-load-plugins')();
 var path = require('path');
 var gls = require('gulp-live-server');
-var server = gls.static('dist', 9000);
+var server = gls.static('dist', 9090);
 
 /**************** Utility **********************/
 function highlight(str) {

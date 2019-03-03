@@ -1,7 +1,7 @@
 ## My Resume
 
 Read resume data from a JSON file .
-[resume online](https://yuzhongma.github.io/resume/)
+[resume online](https://yuzhongma.github.io/mlj-resume/)
 
 ## Build
 

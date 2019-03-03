@@ -14,6 +14,7 @@ module.exports = {
         "personal-site": "个人网站",
         "segmentfault": "segmentfault",
         "repo": "源代码",
+        "blog": "博客",
         "pdf": "PDF 下载"
     },
     section_names: {

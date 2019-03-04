@@ -24,7 +24,7 @@
     "url": "https://yuzhongma.github.io/mlj-resume/"
   }, {
     "type": "pdf",
-    "url": "static/raganya.pdf"
+    "url": "static/mlj.pdf"
   }, {
     "type": "personal-site",
     "url": "https://yuzhongma.github.io"
@@ -82,7 +82,8 @@
     "end": "",
     "name": "前端开发",
     "description": [
-      "`Teacher quality`方向前端负责人",
+      "教师端 `Teacher quality`方向前端负责人",
+      "配合运维开发维护 `智能路由项目`，并开发维护智能路由所需浏览器插件",
       "日常迭代维护，迁移、重构老项目。迁移老管理端代码，使用 `Element-UI` 构建新版管理系统，优化细节，方便管理端同事操作",
       "运用 `Vue SSR` 重构 首页，首页首屏加载速度由`3s`提升到`2s`，提升了用户体验，提高了转化率",
       "维护 三大核心模块 之一 PX 级`Classroom `，推动 核心链路 与 普通模块 拆分，独立工程，独立发版，保证线上稳定性",

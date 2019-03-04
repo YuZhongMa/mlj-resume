@@ -62,6 +62,16 @@
         "能够编写语义化的 `HTML`，模块化的 `CSS`",
         "熟悉掌握已标准化的 `JavaScript`"
       ]
+    }, {
+      "summary": "`前端工程实践`",
+      "description": [
+        "这份在线简历的生成器，使用 `Gulp` 驱动页面生成从 `JSON` 读取数据，使用 `Jade` 模板生成`HTML，Less` 生成响应式页面",
+        "使用 `Nuxt、Egg` 搭建SSR项目",
+        "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践",
+        "在项目中使用过 Less / Sass 等预处理工具",
+        "在项目中使用过 Webpack、Vue、Vue-cli、Element-UI、Scss、Lodash、SuiMoible、Fis 等",
+        "日常使用 Fis 或 Gulp 改进工作流"
+      ]
     }]
   }],
   "experience": [{
@@ -72,16 +82,18 @@
     "end": "",
     "name": "前端开发",
     "description": [
-      "使用`Webpack`+`React`+`Redux`开发，帮助解决园区物业管理问题",
-      "前端开发app，方便版本的迭代而不用更新整个app，提升用户体验",
-      "项目中业务模块不同则代码框架不同，所以一直致力于模块化开发，封装可复用性模块",
-      "app要求高度适配，常探索兼容不同型号的手机及IOS和Android之间的原生差别"
+      "`Teacher quality`方向前端负责人",
+      "日常迭代维护，迁移、重构老项目。迁移老管理端代码，使用 `Element-UI` 构建新版管理系统，优化细节，方便管理端同事操作",
+      "运用 `Vue SSR` 重构 首页，首页首屏加载速度由`3s`提升到`2s`，提升了用户体验，提高了转化率",
+      "维护 三大核心模块 之一 PX 级`Classroom `，推动 核心链路 与 普通模块 拆分，独立工程，独立发版，保证线上稳定性",
+      "重构 三大核心模块 之一 `Classroom` 模块。作为老师进教室的最重要环节，Classroom 的稳定性、用户体验尤其重要。从提升 稳定性、渲染性能出发，打造 全新的、简单易操作 的 Classroom，不断提升用户体验",
+      "项目中使用 `Vue、Nuxt、Egg、Element-UI、Scss、Jade、Node、Express、Gulp、Webpack`"
     ],
     "stack": ["react", "redux", "webpack"]
   }, {
     "type": "internship",
     "techtype": "frontend",
-    "place": "百度 ACG",
+    "place": "百度 ACG (INF)",
     "start": "",
     "end": "",
     "name": "前端开发",
@@ -89,8 +101,9 @@
       "使用百度自研框架`ER`&&`SAN`,日常维护框架",
       "对老的 `mvc` `mvvm` 项目组件进行扩展",
       "独立开发基于 echart 的可视化平台",
-      "开发公有云控制台项目,负责核心`BBC``BCC`业务，日常项目迭代更新",
-      "开发前端打点统计平台"
+      "开发公有云控制台项目,负责核心 `BBC`  `BCC` 业务，负责购买虚拟机，支付之前所有前端流程",
+      "开发前端打点统计平台，提高产品提需求目的性",
+      "百度跨部门项目`云养狗`项目，前端开发"
     ],
     "stack": ["SeaJs", "TmodJs", "React", "Redux", "Gulp", "Webpack", "ant-design"]
   }, {
@@ -114,27 +127,14 @@
     "type": "project",
     "techtype": "frontend",
     "project_type": "personal",
-    "name": "个人网站",
-    "source": "https://github.com/raganyaYoung/personal-site",
-    "demo": "https://raganyayoung.github.io/personal-site/",
+    "name": "reading RN 项目（目前3k+ star）",
+    "source": "https://github.com/attentiveness/reading",
     "description": [
-      "使用bootstrap+jquery实现的个人网站，里面涉及多个前端常用组件——整屏切换、图片放大镜、瀑布流布局等",
-      "通过这个项目，让自己css模块化开发和前端交互设计能力有所加强"
+      "attentivenes 群组成员",
+      "项目由native外壳+RN开发的线上demo"
     ],
-    "stack": ["jade", "less", "gulp"],
+    "stack": ["RN", "less", "gulp"],
     "compatibility": "IE10+"
-  }, {
-    "type": "project",
-    "techtype": "frontend",
-    "project_type": "personal",
-    "name": "微信小程序组件",
-    "source": "https://github.com/raganyaYoung/wxapp-ui",
-    "description": [
-      "炒鸡好看的小程序组件，可高度复用，兼容不同屏幕大小",
-      "项目基本涵盖日常小程序开发中常用的组件，可选Android和IOS的不同风格"
-    ],
-    "stack": ["微信小程序"],
-    "compatibility": "android/ios"
   }],
   "language": [{
     "type": "english",
@@ -166,7 +166,6 @@
       }
     ],
     "description": [
-      "能流畅阅读英文文档及其他资料",
       "能够在GitHub、Stack Overflow 等社区正常交流"
     ]
   }]

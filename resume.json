@@ -19,19 +19,7 @@
       "url": "https://yuzhongma.github.io"
     }
   },
-  "links": [{
-    "type": "repo",
-    "url": "https://yuzhongma.github.io/mlj-resume/"
-  }, {
-    "type": "pdf",
-    "url": "static/mlj.pdf"
-  }, {
-    "type": "personal-site",
-    "url": "https://yuzhongma.github.io"
-  }, {
-    "type": "blog",
-    "url": "https://yuzhongma.github.io"
-  }],
+  "links": [],
   "education": [{
     "type": "undergraduate",
     "name": "山东师范大学",

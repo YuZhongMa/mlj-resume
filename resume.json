@@ -78,9 +78,9 @@
     "type": "internship",
     "techtype": "frontend",
     "place": "VIPKID",
-    "start": "",
-    "end": "",
-    "name": "前端开发",
+    "start": "2018-7",
+    "end": "至今",
+    "name": "高级前端开发工程师",
     "description": [
       "教师端 `Teacher quality`方向前端负责人",
       "配合运维开发维护 `智能路由项目`，并开发维护智能路由所需浏览器插件",
@@ -95,9 +95,9 @@
     "type": "internship",
     "techtype": "frontend",
     "place": "百度 ACG (INF)",
-    "start": "",
-    "end": "",
-    "name": "前端开发",
+    "start": "2017-11",
+    "end": "2018-7",
+    "name": "前端开发工程师",
     "description": [
       "使用百度自研框架`ER`&&`SAN`,日常维护框架",
       "对老的 `mvc` `mvvm` 项目组件进行扩展",
@@ -110,10 +110,10 @@
   }, {
     "type": "internship",
     "techtype": "frontend",
-    "place": "滴滴出行",
-    "start": "",
-    "end": "",
-    "name": "前端开发",
+    "place": "滴滴出行(实习)",
+    "start": "2016-7",
+    "end": "2017-7",
+    "name": "前端开发实习",
     "description": [
       "参与开发滴滴谷雨`B端`项目平台开发",
       "前期涉及基础架构层开发，后期主要参与业务层项目页面开发和功能组件开发",
@@ -124,47 +124,11 @@
       "熟练解决各种 `git` 冲突问题"
     ],
     "stack": ["vue", "webpack", "vue-router", "vuex"]
-  }, {
-    "type": "project",
-    "techtype": "frontend",
-    "project_type": "personal",
-    "name": "reading RN 项目（目前3k+ star）",
-    "source": "https://github.com/attentiveness/reading",
-    "description": [
-      "attentivenes 群组成员",
-      "项目由native外壳+RN开发的线上demo"
-    ],
-    "stack": ["RN", "less", "gulp"],
-    "compatibility": "IE10+"
-  }],
+  }
+],
   "language": [{
     "type": "english",
     "certificate": [
-      {
-        "type": "HTML",
-        "full": "100",
-        "score": "85"
-      },
-      {
-        "type": "CSS",
-        "full": "100",
-        "score": "70"
-      },
-      {
-        "type": "JS",
-        "full": "100",
-        "score": "80"
-      },
-      {
-        "type": "VUE",
-        "full": "100",
-        "score": "80"
-      },
-      {
-        "type": "English",
-        "full": "100",
-        "score": "80"
-      }
     ],
     "description": [
       "能够在GitHub、Stack Overflow 等社区正常交流"

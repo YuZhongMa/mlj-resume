@@ -3,20 +3,13 @@
   "ga_id": "UA-63818301-2",
   "resume_title": "马良骥 - 个人简历",
   "name": "马良骥",
-  "repo": "https://github.com/YuZhongMa/mlj-resume.git",
-  "job_description": ["Web前端开发"],
+  "job_description": ["大前端开发"],
   "contact": {
     "email": "fe_mlj@163.com",
     "phone": "15801326208",
     "wechat": {
       "id": "lincoln_mlj",
       "qrcode": "static/mlj.jpeg"
-    },
-    "github": {
-      "id": "YuZhongMa"
-    },
-    "blog": {
-      "url": "https://yuzhongma.github.io"
     }
   },
   "links": [],
@@ -27,7 +20,7 @@
     "start": "2013",
     "end": "2017",
     "honor": [
-      "2014 - 2015 学年度校**三等奖学金**"
+      "2014 - 2015 学年度校**奖学金**"
     ]
   }],
   "skills": [{
@@ -35,7 +28,9 @@
     "item": [{
       "summary": "`Highlightss & Qualifications`",
       "description": [
-        "3 年以上 Web 前端经验,丰富一线大厂工作经历，熟悉敏捷开发的各个流程",
+        "五年以上 Web 前端经验,丰富一线大厂工作经历，熟悉敏捷开发的各个流程",
+        "大厂前端团队管理经验",
+        "丰富的全栈开发经验",
         "熟悉 `Vue` 原理, 使用vue封装组件，并阅读过VUE源码,掌握其主要逻辑",
         "掌握 `Webpack`+ `Gulp` 在项目中使用其打包兼管理任务流",
         "在项目中使用过 `Sass` 预处理/后处理工具",
@@ -65,9 +60,46 @@
   "experience": [{
     "type": "internship",
     "techtype": "frontend",
+    "place": "Airdoc",
+    "start": "2022-6",
+    "end": "至今",
+    "name": "母公司前端负责人",
+    "description": [
+      "负责公司 互联网医院从0-1研发、注册、协调各方资源",
+      "负责公司LLM大语言模型应用层应用开发",
+      "负责公司B端rbac,cms,crm等后台系统",
+      "负责搭建新版H5报告低代码配置系统",
+      "负责搭建公司AI标注系统",
+      "负责公司国际化前端项目搭建以及对应业务协商",
+      "负责公司IOT项目前端对接",
+      "搭建公司前端node 监控平台",
+      "项目中使用 `Vue、react、Nuxt、koa2、Egg、Spring、Java、Node、Express、Gulp、Webpack`"
+    ],
+    "stack": ["react", "redux", "webpack"]
+  },{
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "滴滴出行",
+    "start": "2020-5",
+    "end": "2022-4",
+    "name": "高级前端开发工程师",
+    "description": [
+      "负责IBT 国际化司机、乘客增长拉新以及乘客留存团队",
+      "负责团队人员日常工作开发安排，codereview，团队规范、以及前端开发军规制定",
+      "优化前端团队工程发布架构",
+      "带领团队开发运营国际化官网配置平台，实现0开发，全配置化上线官网",
+      "带领团队发起并主导开发触达平台，配置化实现从端外可触达所有端内原生页面以及H5",
+      "开发B端活动配置平台，实现拉新活动0开发，全配置化",
+      "主导涉及爬虫的H5页面服务端页面改造，提升用户体验",
+      "项目中使用 `Vue、react、Nuxt、koa2、Egg、Scss、Jade、Node、Express、Gulp、Webpack`"
+    ],
+    "stack": ["react", "redux", "webpack"]
+  },{
+    "type": "internship",
+    "techtype": "frontend",
     "place": "VIPKID",
     "start": "2018-7",
-    "end": "至今",
+    "end": "2020-1",
     "name": "高级前端开发工程师",
     "description": [
       "教师端 `Teacher quality`方向前端负责人",

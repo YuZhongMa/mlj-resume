@@ -1,3 +1,5 @@
+## node 版本
+10.22.1
 ## My Resume
 
 Read resume data from a JSON file .
@@ -16,3 +18,5 @@ Read resume data from a JSON file .
 2. Run `gulp`, then visit `http://localhost:9090`.
 3. Start development!
 
+## NODE 
+node 8.17.0

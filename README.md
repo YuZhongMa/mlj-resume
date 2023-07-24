@@ -18,5 +18,7 @@ Read resume data from a JSON file .
 2. Run `gulp`, then visit `http://localhost:9090`.
 3. Start development!
 
+## Publish
+
 ## NODE 
 node 8.17.0

@@ -1,5 +1,5 @@
-## node 版本
-10.22.1
+## NODE 
+node 8.17.0
 ## My Resume
 
 Read resume data from a JSON file .
@@ -20,5 +20,3 @@ Read resume data from a JSON file .
 
 ## Publish
 
-## NODE 
-node 8.17.0

@@ -19,4 +19,6 @@ Read resume data from a JSON file .
 3. Start development!
 
 ## Publish
+1.gulp build
+2.gulp deploy
 

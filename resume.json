@@ -3,7 +3,7 @@
   "ga_id": "UA-63818301-2",
   "resume_title": "马良骥 - 个人简历",
   "name": "马良骥",
-  "job_description": ["大前端开发"],
+  "job_description": ["全栈开发"],
   "contact": {
     "email": "fe_mlj@163.com",
     "phone": "15801326208",
@@ -46,13 +46,13 @@
         "熟悉掌握已标准化的 `JavaScript`"
       ]
     }, {
-      "summary": "`前端工程实践`",
+      "summary": "`工程实践`",
       "description": [
         "这份在线简历的生成器，使用 `Gulp` 驱动页面生成从 `JSON` 读取数据，使用 `Jade` 模板生成`HTML，Less` 生成响应式页面",
         "使用 `Nuxt、Egg` 搭建SSR项目",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践",
         "在项目中使用过 Less / Sass 等预处理工具",
-        "在项目中使用过 Webpack、Vue、Vue-cli、Element-UI、Scss、Lodash、SuiMoible、Fis 等",
+        "在项目中使用过 Nodejs Webpack、Vue、Vue-cli、Element-UI、Scss、Lodash、SuiMoible、Fis 等",
         "日常使用 Fis 或 Gulp 改进工作流"
       ]
     }]
@@ -63,17 +63,16 @@
     "place": "Airdoc",
     "start": "2022-6",
     "end": "至今",
-    "name": "母公司前端负责人",
+    "name": "全栈开发工程师",
     "description": [
-      "负责公司 互联网医院从0-1研发、注册、协调各方资源",
+      "负责公司互联网医院从0-1研发、注册、协调各方资源",
       "负责公司LLM大语言模型应用层应用开发",
       "负责公司B端rbac,cms,crm等后台系统",
       "负责搭建新版H5报告低代码配置系统",
       "负责搭建公司AI标注系统",
       "负责公司国际化前端项目搭建以及对应业务协商",
-      "负责公司IOT项目前端对接",
-      "搭建公司前端node 监控平台",
-      "项目中使用 `Vue、react、Nuxt、koa2、Egg、Spring、Java、Node、Express、Gulp、Webpack`"
+      "搭建公司前端Nodejs监控系统",
+      "项目中使用 `Nodejs、Vue、react、Python、koa2、Egg、Spring、Java、Node、Express、Gulp、Webpack`"
     ],
     "stack": ["react", "redux", "webpack"]
   },{
@@ -82,7 +81,7 @@
     "place": "滴滴出行",
     "start": "2020-5",
     "end": "2022-4",
-    "name": "高级前端开发工程师",
+    "name": "大前端高级开发工程师",
     "description": [
       "负责IBT 国际化司机、乘客增长拉新以及乘客留存团队",
       "负责团队人员日常工作开发安排，codereview，团队规范、以及前端开发军规制定",
@@ -91,7 +90,7 @@
       "带领团队发起并主导开发触达平台，配置化实现从端外可触达所有端内原生页面以及H5",
       "开发B端活动配置平台，实现拉新活动0开发，全配置化",
       "主导涉及爬虫的H5页面服务端页面改造，提升用户体验",
-      "项目中使用 `Vue、react、Nuxt、koa2、Egg、Scss、Jade、Node、Express、Gulp、Webpack`"
+      "项目中使用 `Nodejs、Vue、react、Nuxt、koa2、Egg、Scss、Jade、Node、Express、Gulp、Webpack`"
     ],
     "stack": ["react", "redux", "webpack"]
   },{
@@ -117,7 +116,7 @@
     "place": "百度 ACG (INF)",
     "start": "2017-11",
     "end": "2018-7",
-    "name": "前端开发工程师",
+    "name": "全栈开发工程师",
     "description": [
       "使用百度自研框架`ER`&&`SAN`,日常维护框架",
       "对老的 `mvc` `mvvm` 项目组件进行扩展",
@@ -126,7 +125,7 @@
       "开发前端打点统计平台，提高产品提需求目的性",
       "百度跨部门项目`云养狗`项目，前端开发"
     ],
-    "stack": ["SeaJs", "TmodJs", "React", "Redux", "Gulp", "Webpack", "ant-design"]
+    "stack": ["Nodejs", "SeaJs", "TmodJs", "React", "Redux", "Gulp", "Webpack", "ant-design"]
   }, {
     "type": "internship",
     "techtype": "frontend",

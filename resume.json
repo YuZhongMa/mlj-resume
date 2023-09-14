@@ -3,7 +3,7 @@
   "ga_id": "UA-63818301-2",
   "resume_title": "马良骥 - 个人简历",
   "name": "马良骥",
-  "job_description": ["全栈开发"],
+  "job_description": ["前端开发"],
   "contact": {
     "email": "fe_mlj@163.com",
     "phone": "15801326208",
@@ -62,7 +62,7 @@
     "techtype": "frontend",
     "place": "Airdoc",
     "start": "2022-6",
-    "end": "至今",
+    "end": "2023-8",
     "name": "全栈开发工程师",
     "description": [
       "负责公司互联网医院从0-1研发、注册、协调各方资源",
@@ -75,13 +75,25 @@
       "项目中使用 `Nodejs、Vue、react、Python、koa2、Egg、Spring、Java、Node、Express、Gulp、Webpack`"
     ],
     "stack": ["react", "redux", "webpack"]
-  },{
+  }, {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "开课吧",
+    "start": "2022-4",
+    "end": "2022-6",
+    "name": "前端专家",
+    "description": [
+      "负责公司主站团队管理",
+      "负责公司开发课程系统"
+    ],
+    "stack": ["react", "redux", "webpack"]
+  } ,{
     "type": "internship",
     "techtype": "frontend",
     "place": "滴滴出行",
     "start": "2020-5",
     "end": "2022-4",
-    "name": "大前端高级开发工程师",
+    "name": "高级开发工程师",
     "description": [
       "负责IBT 国际化司机、乘客增长拉新以及乘客留存团队",
       "负责团队人员日常工作开发安排，codereview，团队规范、以及前端开发军规制定",
@@ -93,13 +105,25 @@
       "项目中使用 `Nodejs、Vue、react、Nuxt、koa2、Egg、Scss、Jade、Node、Express、Gulp、Webpack`"
     ],
     "stack": ["react", "redux", "webpack"]
-  },{
+  }, {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "明世科技",
+    "start": "2020-1",
+    "end": "2020-4",
+    "name": "前端开发工程师",
+    "description": [
+      "负责公司小程序开发",
+      "负责公司后台项目研发"
+    ],
+    "stack": ["react", "redux", "webpack"]
+  }, {
     "type": "internship",
     "techtype": "frontend",
     "place": "VIPKID",
-    "start": "2018-7",
-    "end": "2020-1",
-    "name": "高级前端开发工程师",
+    "start": "2018-6",
+    "end": "2019-12",
+    "name": "前端开发工程师",
     "description": [
       "教师端 `Teacher quality`方向前端负责人",
       "配合运维开发维护 `智能路由项目`，并开发维护智能路由所需浏览器插件",
@@ -114,9 +138,9 @@
     "type": "internship",
     "techtype": "frontend",
     "place": "百度 ACG (INF)",
-    "start": "2017-11",
-    "end": "2018-7",
-    "name": "全栈开发工程师",
+    "start": "2017-12",
+    "end": "2018-6",
+    "name": "前端开发工程师",
     "description": [
       "使用百度自研框架`ER`&&`SAN`,日常维护框架",
       "对老的 `mvc` `mvvm` 项目组件进行扩展",
@@ -126,6 +150,28 @@
       "百度跨部门项目`云养狗`项目，前端开发"
     ],
     "stack": ["Nodejs", "SeaJs", "TmodJs", "React", "Redux", "Gulp", "Webpack", "ant-design"]
+  }, {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "好未来",
+    "start": "2017-11",
+    "end": "2017-12",
+    "name": "前端工程师",
+    "description": [
+      "前端开发"
+    ]
+  }, {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "北京创业光荣",
+    "start": "2017-7",
+    "end": "2017-10",
+    "name": "前端开发工程师",
+    "description": [
+      "RN前端开发工作",
+      "资本二级市场信息开发工作"
+    ],
+    "stack": ["Nodejs", "SeaJs", "RN", "React", "Redux", "Gulp", "Webpack", "ant-design"]
   }, {
     "type": "internship",
     "techtype": "frontend",
